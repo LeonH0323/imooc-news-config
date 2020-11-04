@@ -1,5 +1,4 @@
-# blackIp:
-#   continueCounts: 10
-#   limitTimes: 10
-#   timeInterval: 15
-test: hello
+blackIp:
+  continueCounts: 10
+  limitTimes: 10
+  timeInterval: 15
